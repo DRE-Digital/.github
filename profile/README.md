@@ -10,8 +10,8 @@ Based in Winchester, Hampshire, DRE Digital has been at the forefront of data te
 
 ## Our Core Services
 
-### DDx Platform
-Our proprietary **DDx data platform** is the cornerstone of our offerings, providing:
+### DDX Platform
+Our proprietary **DDX data platform** is the cornerstone of our offerings, providing:
 - Automated data curation, cataloguing, and exchange
 - Enterprise-grade data management and governance
 - Democratization and decentralization of data access
