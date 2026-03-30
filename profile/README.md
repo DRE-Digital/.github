@@ -1,6 +1,6 @@
 <div align="center">
 
-![DRE Digital](https://github.com/DRE-Digital/.github/blob/8ff409f5f2dbccfa7a2f193f55bdba6ad509bd46/profile/README.md)
+![DRE Digital](https://github.com/DRE-Digital/.github/blob/main/profile/dre-digital-logo.png)
 
 # 🚀 DRE Digital
 
