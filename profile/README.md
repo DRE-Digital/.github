@@ -1,14 +1,12 @@
 <div align="center">
 
-![DRE Digital](https://github.com/DRE-Digital/.github/blob/main/profile/dre-digital-logo.png)
-
-# 🚀 DRE Digital
+<img src="https://github.com/DRE-Digital/.github/blob/main/profile/dre-digital-logo.png" alt="DRE Digital Logo" width="400"/> 
 
 **Unlocking the Value of Data Through Innovation & Expertise**
 
-[![Website](https://img.shields.io/badge/Website-dredigital.co.uk-0066cc?style=for-the-badge)](https://www.dredigital.co.uk/)
-[![Location](https://img.shields.io/badge/📍-Winchester%2C%20Hampshire-0066cc?style=for-the-badge)](https://www.dredigital.co.uk/)
-[![Since](https://img.shields.io/badge/Since-2012-0066cc?style=for-the-badge)]()
+[![Website](https://img.shields.io/badge/Website-dredigital.co.uk-0D96FA?style=for-the-badge)](https://www.dredigital.co.uk/)
+[![Location](https://img.shields.io/badge/📍-Winchester%2C%20Hampshire-0D96FA?style=for-the-badge)](https://www.dredigital.co.uk/)
+[![Since](https://img.shields.io/badge/Since-2012-0D96FA?style=for-the-badge)]()
 
 </div>
 
@@ -53,7 +51,7 @@ With deep expertise in **data strategy**, **modern architectures**, and **cuttin
 
 ## 🛠️ Our Core Offerings
 
-### 🌟 **DDX Platform**
+### <img src="https://github.com/DRE-Digital/.github/blob/main/profile/ddx-logo.png" alt="DDX Logo" width="16"/>  **DDX Platform**
 
 Our proprietary **DDX data platform** is the cornerstone of our data transformation solutions. A powerful, flexible platform built for modern enterprises:
 
