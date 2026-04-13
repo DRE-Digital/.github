@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/DRE-Digital/.github/blob/main/profile/dre-digital-logo.png" alt="DRE Digital Logo" width="400"/> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dre-digital-logo-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="dre-digital-logo-dark.png">
+  <img src="logo_light.png" alt="DRE Digital Logo" width="400">
+</picture>
 
 **Unlocking the Value of Data Through Innovation & Expertise**
 
